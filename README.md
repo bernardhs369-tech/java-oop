@@ -8,7 +8,7 @@ Exercises I'm solving while learning Object-Oriented Programming in Java. Each e
 |---|---|---|
 | `person/` | `PersonDemo` | Private attributes, constructor, getters/setters, `if/else`, input validation |
 | `product/` | `ProductDemo` | Constructor, methods with parameters, validation, changing object state |
-| `bank-account/` | `Principal` | Private attributes, getters and setters |
+| `bank-account/` | `BankAccountDemo` | Private attributes, constructor, methods with business rules (`deposit`, `withdraw`), validation |
  
 ## How to run
  
